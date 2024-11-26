@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\garga\\source\\repos\\TextBasedGame_Assessment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8404EEDB-564F-4CC5-AC8E-058777140898}|g012251o_project.vcxproj|C:\\Users\\garga\\source\\repos\\TextBasedGame_Assessment\\g012251o_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8404EEDB-564F-4CC5-AC8E-058777140898}|g012251o_project.vcxproj|solutionrelative:g012251o_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -17,33 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "g012251o_project.cpp",
               "DocumentMoniker": "C:\\Users\\garga\\source\\repos\\TextBasedGame_Assessment\\g012251o_project.cpp",
               "RelativeDocumentMoniker": "g012251o_project.cpp",
               "ToolTip": "C:\\Users\\garga\\source\\repos\\TextBasedGame_Assessment\\g012251o_project.cpp",
               "RelativeToolTip": "g012251o_project.cpp",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAJAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T10:13:56.016Z",
+              "WhenOpened": "2024-11-26T22:02:57.697Z",
               "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "__msvc_string_view.hpp",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\__msvc_string_view.hpp",
-              "ViewState": "AgIAAGQBAAAAAAAAAAAmwH0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T20:50:31.886Z",
               "EditorCaption": ""
             }
           ]
