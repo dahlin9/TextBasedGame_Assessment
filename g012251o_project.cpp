@@ -75,13 +75,13 @@ string chooseTransport() {
 	getline(cin, transportChoice);
 	transportChoice = caseInsensitive(transportChoice);
 
-	if (transportChoice == "bus") {
+	if (transportChoice == "bus" || transportChoice == "Bus") {
 		busStage();
 		firstStageClear = true;
-	} else if (transportChoice == "tube") {
+	} else if (transportChoice == "tube" || transportChoice == "Tube") {
 		tubeStage();
 		firstStageClear = true;
-	} else if (transportChoice == "train") {
+	} else if (transportChoice == "train" || transportChoice == "Train") {
 		trainStage();
 		firstStageClear = true;
 	} else {
@@ -118,7 +118,7 @@ string trainStage() {
 }
 
 string timesCheck() {
-	cout << "You check your bus times app first.\n";
+	cout << "\nYou check your bus times app first.\n";
 	sleep_until(system_clock::now() + seconds(3));
 	cout << "It reads: \n";
 	cout << " +------------------------------+\n";
@@ -143,10 +143,15 @@ string busPassing() {
 	sleep_until(system_clock::now() + seconds(2));
 	cout << "The morning dew on the grass.\n";
 	sleep_until(system_clock::now() + seconds(2));
-	cout << "The smell of cof--\n";
+	cout << "The smell of cof-\n";
 	cout << "That's your bus.\n";
+	sleep_until(system_clock::now() + seconds(2));
+	cout << "...Huh.";
+	sleep_until(system_clock::now() + seconds(5));
 	cout << "The app lied. That's your bus, passing by you.\n\n";
 	cout << "Do you run for it?";
+
+	//doing this return for now til i can link it to somth else
 	return 0;
 }
 int main() {
